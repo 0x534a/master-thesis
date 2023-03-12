@@ -1,5 +1,5 @@
 # Master Thesis
-This repository contains my master thesis mit the title *Signature-Based Detection of Behavioural Malware Features with Windows API Calls*. I finished my degree Master of Science in Digital Forensics with this thesis at the [University of Applied Sciences Albstadt-Sigmaringen](https://www.hs-albsig.de/hochschule/organisation/international-office/information-in-english/) in 2020. The work was supervised by Prof. Felix Freiling ([Friedrich-Alexander-University Erlangen-Nuremberg](https://www.fau.eu)).
+This repository contains my master thesis with the title *Signature-Based Detection of Behavioural Malware Features with Windows API Calls*. I finished my degree Master of Science in Digital Forensics with this thesis at the [University of Applied Sciences Albstadt-Sigmaringen](https://www.hs-albsig.de/hochschule/organisation/international-office/information-in-english/) in 2020. The work was supervised by Prof. Felix Freiling ([Friedrich-Alexander-University Erlangen-Nuremberg](https://www.fau.eu)).
 
 In companion with the thesis, the slides of the defence presentation are provided. The slides may be a good starting point to get an overview of the research project.
 
